@@ -19,9 +19,9 @@ Visualisasi ini menampilkan:
 - Arah dan kecepatan angin dalam format wind rose dan tren bulanan
 - Waktu dan posisi matahari, termasuk estimasi evapotranspirasi bulanan (ET)
 - Navigasi interaktif berdasarkan tahun, bulan, dan lokasi stasiun cuaca
-  
-## 🔗 Live Dashboard
-[Klik untuk melihat di Tableau Public](https://public.tableau.com/views/sales-dashboard-example)
 
+  
 ## 🖼️ Preview
+![Dashboard Screenshot](./dashboard.png)
+
 ![Dashboard Screenshot](./dashboard.png)
