@@ -24,4 +24,6 @@ Visualisasi ini menampilkan:
 ## 🖼️ Preview
 ![Dashboard Screenshot](./dashboard.png)
 
-![Dashboard Screenshot](./dashboard.png)
+![Climmaate Screenshot](./climate.png)
+
+![Temperature Screenshot](./temperature.png)
