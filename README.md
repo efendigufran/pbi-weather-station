@@ -24,4 +24,4 @@ Visualisasi ini menampilkan:
 [Klik untuk melihat di Tableau Public](https://public.tableau.com/views/sales-dashboard-example)
 
 ## 🖼️ Preview
-![Dashboard Screenshot](./preview.png)
+![Dashboard Screenshot](./dashboard.png)
