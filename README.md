@@ -26,4 +26,4 @@ Visualisasi ini menampilkan:
 
 ![Climmaate Screenshot](./climate.png)
 
-![Temperature Screenshot](./temperature.png)
+![Temperature Screenshot](./hourly-temperature.png)
